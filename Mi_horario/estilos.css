@@ -1,0 +1,24 @@
+.titulo{
+    background-color: aqua;
+}
+
+.programacion{
+   background-color: rgb(198, 118, 248); 
+}
+
+.electronica{
+    background-color: rgb(251, 251, 142);
+}
+
+.social{
+    background-color: rgb(250, 152, 60);
+}
+
+.horaslibres{
+    background-color: rgb(155, 245, 133);
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
